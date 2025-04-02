@@ -1,0 +1,27 @@
+{
+  "name": "mr-green-agi-web",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/abhinavpandey87/mr-green-agi-web.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/abhinavpandey87/mr-green-agi-web/issues"
+  },
+  "homepage": "https://github.com/abhinavpandey87/mr-green-agi-web#readme",
+  "description": "",
+  "dependencies": {
+    "react": "^19.1.0",
+    "react-dom": "^19.1.0"
+  },
+  "devDependencies": {
+    "vite": "^6.2.4"
+  }
+}
